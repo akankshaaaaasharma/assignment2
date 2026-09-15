@@ -8,9 +8,6 @@ def multiplication(a: float, b: float) -> float:
     return a * b
 
 def division(a: float, b: float) -> float:
-    return a / b
-
-def division(a: float, b: float) -> float:
     """
     This function takes two numbers (a and b) and returns their quotient (a / b).
     Dividing means breaking the first number into equal parts based on the second number.
